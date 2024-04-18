@@ -378,5 +378,3 @@ def get_proxy():
 if __name__ == '__main__':
     azure_subnets = get_azure_subnets()
     crawl(BASE_CRAWELIG_URL, 20)
-
-
